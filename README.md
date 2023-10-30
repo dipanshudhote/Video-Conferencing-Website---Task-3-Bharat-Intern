@@ -8,7 +8,7 @@ Step 1: Copy link from the code button and paste in the browser then add "box" k
 else 
 copy paste this below link
 
-https://githubbox.com/dipanshudhote/Video-Conferencing-Website---Task-3-Bharat-Intern.git
+https://codesandbox.io/p/sandbox/github/dipanshudhote/Video-Conferencing-Website---Task-3-Bharat-Intern/tree/main
 
 
 You can run this program in Sandbox directly
